@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    font-size: 45px;
+}
+
+p {
+    color: #7bcc1f;
+    font-size: 23px;
+}
+
+a {
+    color: chocolate;
+    text-decoration: none;
+}
